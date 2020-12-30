@@ -1,4 +1,11 @@
 ### Hi there 👋
+🌱 I’m currently learning ... Big date analysis class from Multi-Campus
+Everything is so new to me, but progress is what I really pursue. Who know's I'll be a great developer one day? 💁
+
+
+💬 Ask me about Math! I've been working as a math teacher so far. I like teaching as well as learning. 😊 Math was my favorite subject when I was a teenager.
+
+
 
 <!--
 **kim-jae-eun/kim-jae-eun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
