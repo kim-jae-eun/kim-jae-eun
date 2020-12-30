@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🌱 I’m currently learning ... Big date analysis class from Multi-Campus
+#### 🌱 I’m currently learning ... Big data analysis class from Multi-Campus
 Everything is so new to me, but progress is what I really pursue. Who know's I'll be a great developer one day? 💁
 
 
