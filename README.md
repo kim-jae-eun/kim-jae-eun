@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🌱 I’m currently learning ... Big data analysis class from Multi-Campus
-Everything is so new to me, but progress is what I really pursue. Who know's I'll be a great developer one day? 💁
+Everything is so new to me, but progress is what I really pursue. Who knows I'll be a great developer one day? 💁
 
 
 #### 💬 Ask me about Math! I've been working as a math teacher so far. I like teaching as well as learning. 😊 Math was my favorite subject when I was a teenager. Well, data is formed by zeros and ones too, isn't it interesting? 🤦🏻
