@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🌱 I hvae learned ... Big data analysis class from Multi-Campus
+#### 🌱 I have learned ... Big data analysis class from Multi-Campus
 Everything was so new to me, but progressing is what I really pursue. Who knows I'll be a great developer one day? 💁
 
 
